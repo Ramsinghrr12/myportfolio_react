@@ -10,7 +10,7 @@ export const About = () => {
         </div>
         <div className="about-section">
             <div className="about-left">
-                <img src="/img/ram.JPG " alt="" />
+                <img src="https://github.com/Ramsinghrr12/myportfolio_react/blob/main/img/ram.JPG" alt="" />
             </div>
             <div className='about-right'>
               <div className="about-para">
